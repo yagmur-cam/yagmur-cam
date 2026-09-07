@@ -1,10 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Ya%C4%9Fmur%20%C3%87am&fontSize=48&fontColor=ffffff&desc=AI%20%C2%B7%20Neuroscience%20%C2%B7%20Robotics&descSize=18&descAlignY=62" width="100%">
-</p>
-
-#<h1 align="center">Hi 👋 I'm Yağmur Çam</h1>
+<h1 align="center">Hi 👋 I'm Yağmur Çam</h1>
 
 <h3 align="center">AI · Neuroscience · Robotics</h3>
 
@@ -40,6 +36,6 @@ Earlier work: [Hodgkin-Huxley simulator](https://github.com/yagmur-cam/hodgkin-h
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ya%C4%9Fmur-%C3%A7am-2860y00/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/ya%C4%9Fmur-%C3%A7am-2860y00//">LinkedIn</a> ·
   <a href="mailto:yagmurcam026@gmail.com">Email</a>
 </p>
