@@ -6,8 +6,6 @@
 
 Applied Computer Science and AI Student @ Sapienza, Rome
 
-</div>
-
 ---
 
 I am passionate about the intersection of artificial intelligence, neuroscience and
@@ -23,13 +21,11 @@ you give either one a body to operate.
 | **[my-lab](https://github.com/yagmur-cam/my-lab)** | My lab notebook on the web: experiments, write-ups, results |
 | **[neuroplasticity-simulator](https://github.com/yagmur-cam/neural-plasticity-simulator)** | How synapses learn: Hebbian rules and STDP |
 
-<br>
 
 ### 📚 Learning right now
 
 `C++` · `Electronics` · `SQL`
 
-<br>
 
 ### 🗄 Archive
 
