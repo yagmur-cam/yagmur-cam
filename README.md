@@ -15,7 +15,7 @@ robotics: how brains compute, how machines learn, and what changes when
 you give either one a body to operate.
 
 
-### 🔬 Building
+### ✩ Building
 
 | Project | What it is |
 |---|---|
@@ -23,12 +23,12 @@ you give either one a body to operate.
 | **[neural-plasticity-simulator](https://github.com/yagmur-cam/neural-plasticity-simulator)** | How synapses learn: Hebbian rules and STDP |
 
 
-### 📚 Learning right now
+### ✩ Learning right now
 
 `C++` · `Electronics` · `SQL`
 
 
-### 🗄 Archive
+### ✩ Archive
 
 Earlier work: [Hodgkin-Huxley simulator](https://github.com/yagmur-cam/hodgkin-huxley-simulator) ·
 [Hopfield networks & attention](https://github.com/yagmur-cam/hopfield-networks-attention) ·
