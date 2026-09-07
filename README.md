@@ -4,6 +4,8 @@
 
 ### AI · Neuroscience · Robotics
 
+</div>
+
 Applied Computer Science and AI Student @ Sapienza, Rome
 
 ---
@@ -12,7 +14,6 @@ I am passionate about the intersection of artificial intelligence, neuroscience 
 robotics: how brains compute, how machines learn, and what changes when
 you give either one a body to operate.
 
-<br>
 
 ### 🔬 Building
 
