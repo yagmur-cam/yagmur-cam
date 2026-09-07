@@ -1,10 +1,14 @@
-<div align="center">
-
-<h1 align="center">Hi 👋 I'm Yağmur Çam</h1>
-
-<h3 align="center">AI · Neuroscience · Robotics</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Ya%C4%9Fmur%20%C3%87am&fontSize=48&fontColor=ffffff&desc=AI%20%C2%B7%20Neuroscience%20%C2%B7%20Robotics&descSize=18&descAlignY=75" width="100%">
+</p>
 
 <p align="center">Applied Computer Science and AI Student @ Sapienza, Rome</p>
+
+---
+
+I am passionate about the intersection of artificial intelligence, neuroscience and
+robotics: how brains compute, how machines learn, and what changes when you give
+either one a body to operate.
 
 ---
 
