@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yagmur-cam/yagmur-cam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yağmur Çam
 
-Here are some ideas to get you started:
+### AI · Neuroscience · Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Applied Computer Science and AI @ Sapienza, Rome
+
+</div>
+
+---
+
+I am passionate about the intersection of artificial intelligence, neuroscience and
+robotics: how brains compute, how machines learn, and what changes when
+you give either one a body to operate.
+
+<br>
+
+### 🔬 Building
+
+| Project | What it is |
+|---|---|
+| **[my-lab](https://github.com/yagmur-cam/my-lab)** | My lab notebook on the web: experiments, write-ups, results |
+| **[neuroplasticity-simulator](https://github.com/yagmur-cam/neuroplasticity-simulator)** | How synapses learn: Hebbian rules and STDP |
+
+<br>
+
+### 📚 Learning right now
+
+`C++` · `Electronics` · `SQL`
+
+<br>
+
+### 🗄 Archive
+
+Earlier work: [Hodgkin-Huxley simulator](https://github.com/yagmur-cam/hodgkin-huxley-simulator) ·
+[Hopfield networks & attention](https://github.com/yagmur-cam/hopfield-networks-attention) ·
+[Painting classifier](https://github.com/yagmur-cam/painting-classifier-cnn)
+
+<br>
+
+---
+
+<div align="center">
+
+[LinkedIn](www.linkedin.com/in/yağmur-çam-2860y00) · [Email](mailto:yagmurcam026@gmail.com)
+
+</div>
