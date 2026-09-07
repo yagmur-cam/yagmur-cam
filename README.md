@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Ya%C4%9Fmur%20%C3%87am&fontSize=48&fontColor=ffffff&desc=AI%20%C2%B7%20Neuroscience%20%C2%B7%20Robotics&descSize=18&descAlignY=75" width="100%">
-</p>
+<div align="center">
 
-<p align="center">Applied Computer Science and AI Student @ Sapienza, Rome</p>
+# Hi 👋 I'm Yağmur Çam
+
+### AI · Neuroscience · Robotics
+
+</div>
 
 ---
 
