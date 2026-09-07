@@ -1,10 +1,14 @@
-<div align="center">
+<p align="center">
+  <img  src="https://github.com/user-attachments/assets/eecde678-7877-43d6-9603-c03866f63cc2" width="100%" alt="">
+</p>
 
-# Hi 👋 I'm Yağmur Çam
+<h1 align="center">Yağmur Çam</h1>
 
-### AI · Neuroscience · Robotics
+<h3 align="center">AI · Neuroscience · Robotics</h3>
 
-</div>
+<p align="center">Applied Computer Science and AI Student @ Sapienza, Rome</p>
+
+---
 
 ---
 
