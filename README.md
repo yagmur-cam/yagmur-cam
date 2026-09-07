@@ -21,7 +21,7 @@ you give either one a body to operate.
 | Project | What it is |
 |---|---|
 | **[my-lab](https://github.com/yagmur-cam/my-lab)** | My lab notebook on the web: experiments, write-ups, results |
-| **[neuroplasticity-simulator](https://github.com/yagmur-cam/neuroplasticity-simulator)** | How synapses learn: Hebbian rules and STDP |
+| **[neuroplasticity-simulator](https://github.com/yagmur-cam/neural-plasticity-simulator)** | How synapses learn: Hebbian rules and STDP |
 
 <br>
 
