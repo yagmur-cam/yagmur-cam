@@ -38,6 +38,6 @@ Earlier work: [Hodgkin-Huxley simulator](https://github.com/yagmur-cam/hodgkin-h
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ya%C4%9Fmur-%C3%A7am-2860y00//">LinkedIn</a> ·
+  <a href=https://www.linkedin.com/in/ya%C4%9Fmur-%C3%A7am-2860y00/>LinkedIn</a> ·
   <a href="mailto:yagmurcam026@gmail.com">Email</a>
 </p>
