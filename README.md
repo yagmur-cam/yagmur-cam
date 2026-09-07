@@ -10,14 +10,6 @@
 
 ---
 
----
-
-I am passionate about the intersection of artificial intelligence, neuroscience and
-robotics: how brains compute, how machines learn, and what changes when you give
-either one a body to operate.
-
----
-
 I am passionate about the intersection of artificial intelligence, neuroscience and
 robotics: how brains compute, how machines learn, and what changes when
 you give either one a body to operate.
