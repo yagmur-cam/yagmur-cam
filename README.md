@@ -1,10 +1,10 @@
 <div align="center">
 
-# Yağmur Çam
+# Hi 👋 I'm Yağmur Çam
 
 ### AI · Neuroscience · Robotics
 
-Applied Computer Science and AI @ Sapienza, Rome
+Applied Computer Science and AI Student @ Sapienza, Rome
 
 </div>
 
@@ -43,6 +43,6 @@ Earlier work: [Hodgkin-Huxley simulator](https://github.com/yagmur-cam/hodgkin-h
 
 <div align="center">
 
-[LinkedIn](www.linkedin.com/in/yağmur-çam-2860y00) · [Email](mailto:yagmurcam026@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ya%C4%9Fmur-%C3%A7am-2860y00/) · [Email](mailto:yagmurcam026@gmail.com)
 
 </div>
