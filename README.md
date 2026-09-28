@@ -1,5 +1,4 @@
 <p align="center">
-  <img  src="https://github.com/user-attachments/assets/eecde678-7877-43d6-9603-c03866f63cc2" width="100%" alt="">
 </p>
 
 <h1 align="center">Yağmur Çam</h1>
