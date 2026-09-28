@@ -3,7 +3,7 @@
 
 <h1 align="center">Yağmur Çam</h1>
 
-<h3 align="center">AI · Neuroscience · Robotics</h3>
+<h3 align="center">AI · Robotics · Neuroscience</h3>
 
 <p align="center">Applied Computer Science and AI Student @ Sapienza, Rome</p>
 
