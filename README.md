@@ -25,7 +25,7 @@ you give either one a body to operate.
 
 ### ✩ Learning right now
 
-`C++` · `Electronics` · `SQL`
+`C++` · `ROS 2` · `PyTorch` · `SQL`
 
 
 ### ✩ Archive
