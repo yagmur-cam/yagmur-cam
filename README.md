@@ -18,9 +18,8 @@ you give either one a body to operate.
 
 | Project | What it is |
 |---|---|
-| **[autonomous-vehicle-simulation](https://github.com/yagmur-cam/autonomous-vehicle-simulation)** | Tracking a vehicle through noisy radar with a Kalman filter |
-| **[neural-plasticity-simulator](https://github.com/yagmur-cam/neural-plasticity-simulator)** | How synapses learn: Hebbian rules and STDP |
 | **[mars-terrain-segmentation](https://github.com/yagmur-cam/mars-terrain-segmentation)** | Semantic terrain segmentation for Mars rovers (U-Net from scratch vs. pretrained) |
+| **[neural-plasticity-simulator](https://github.com/yagmur-cam/neural-plasticity-simulator)** | How synapses learn: Hebbian rules and STDP |
 
 
 ### Learning right now
