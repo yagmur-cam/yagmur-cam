@@ -14,7 +14,7 @@ robotics: how brains compute, how machines learn, and what changes when
 you give either one a body to operate.
 
 
-### ✩ Building
+### Building
 
 | Project | What it is |
 |---|---|
@@ -23,12 +23,12 @@ you give either one a body to operate.
 | **[mars-terrain-segmentation](https://github.com/yagmur-cam/mars-terrain-segmentation)** | Semantic terrain segmentation for Mars rovers (U-Net from scratch vs. pretrained) |
 
 
-### ✩ Learning right now
+### Learning right now
 
 `C++` · `ROS 2` · `PyTorch` · `SQL`
 
 
-### ✩ Archive
+### Archive
 
 Earlier work: [Hodgkin-Huxley simulator](https://github.com/yagmur-cam/hodgkin-huxley-simulator) ·
 [Hopfield networks & attention](https://github.com/yagmur-cam/hopfield-networks-attention) ·
